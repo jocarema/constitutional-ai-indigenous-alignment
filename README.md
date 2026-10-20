@@ -4,7 +4,7 @@
 
 [![License: Code GPLv3 · Content CC BY-NC-SA](https://img.shields.io/badge/License-GPLv3%20%7C%20CC%20BY--NC--SA-blue.svg)](#license)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX) -->
+<!-- [![arXiv](https://img.shields.io/badge/arXiv-2610.25298-b31b1b.svg)](https://arxiv.org/abs/2610.25298) -->
 
 > Leer en español: [README.es.md](README.es.md)
 
@@ -20,7 +20,7 @@ This repository accompanies the following work:
 
 An English preprint is available on arXiv:
 
-> Fernández Sabido, S., Reyes Magaña, J., Chay Tun, J. A., Buenfil, J. C., González Nahuat, V., & Morales, F. (2026). *Aligning Language Models with Indigenous Community Cosmovision through Constitutional AI*. arXiv:XXXX.XXXXX [cs.AI]. https://arxiv.org/abs/XXXX.XXXXX
+> Fernández Sabido, S., Reyes Magaña, J., Chay Tun, J. A., Buenfil, J. C., González Nahuat, V., & Morales, F. (2026). *Aligning Language Models with Indigenous Community Cosmovision through Constitutional AI*. arXiv:2610.25298 [cs.AI]. https://arxiv.org/abs/2610.25298
 
 It contains the complete system developed to align a language model with the ethical and philosophical principles of five indigenous communities in Latin America, through a **Cultural Constitution** co-created with community leaders and a **Constitutional AI (CAI)** pipeline combining supervised fine-tuning (SFT) and direct preference optimization (DPO), deployed with retrieval-augmented generation (RAG).
 
@@ -146,7 +146,7 @@ This work is being prepared for submission to Texto Livre. If you use it, please
   eprint        = {XXXX.XXXXX},
   archivePrefix = {arXiv},
   primaryClass  = {cs.AI},
-  url           = {https://arxiv.org/abs/XXXX.XXXXX}
+  url           = {https://arxiv.org/abs/2610.25298}
 }
 ```
 
